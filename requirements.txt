@@ -1,0 +1,9 @@
+# Core dependencies for the cleaning notebook / script
+pandas>=2.0
+numpy>=1.24
+
+# To run the .ipynb locally (not needed in Google Colab)
+jupyterlab>=4.0
+
+# Only needed if you convert the cleaned CSV to .xlsx for Tableau
+openpyxl>=3.1
